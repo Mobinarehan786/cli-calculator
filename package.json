@@ -1,8 +1,9 @@
 {
-  "name": "mkre123-cli-calculator",
+  "name": "mkre124-cli-calculator",
   "type": "module",
-  "version": "1.0.0",
-  "description": "Acli calculator",
+  "bin": "index.js",
+  "version": "1.0.2",
+  "description": "A cli calculator",
   "main": "index.js",
   "dependencies": {
     "ansi-escapes": "^4.3.2",
